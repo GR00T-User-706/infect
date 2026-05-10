@@ -286,7 +286,7 @@ baner1
 menu
 elif [ "$p" = "z" ];
 then
-cd $HOM/infect
+cd $HOME/infect
 rm noob.noob
 banner
 menu
